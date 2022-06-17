@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-zone_w = 4;
+zone_w = 5;
 zone_h = 5;
 spacer = 5;
 

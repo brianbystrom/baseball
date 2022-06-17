@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"PitchOptionBtnSelected","path":"sprites/PitchOptionBtnSelected/PitchOptionBtnSelected.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "PitchOptionBtnSelected",
     "tags": [],
     "resourceType": "GMSequence",

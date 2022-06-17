@@ -1,11 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-zone_w = 4;
-zone_h = 5;
+zone_w = 7;
+zone_h = 7;
 spacer = 5;
 
-zone_loc_x = window_get_width()/2-(sprite_width*(zone_w/2) + spacer);
+zone_loc_x = window_get_width()/4-(sprite_width*(zone_w/2) + spacer);
 zone_loc_y = window_get_height()/3-(sprite_height*(zone_h/2) + spacer);
 
 show_debug_message(string(zone_loc_x) + " " + string(zone_loc_y));
